@@ -1,0 +1,8 @@
+{
+  "description": "Lightweight Go service that syncs glucose data from Abbott's LibreLink Up to Nightscout CGM platform. Runs as a containerized microservice with automatic data polling and real-time updates.",
+  "featured": true,
+  "tags": ["golang", "nightscout", "diabetes", "healthcare", "docker", "monitoring"],
+  "images": [
+    "https://raw.githubusercontent.com/nightscout/cgm-remote-monitor/master/static/images/nightscout_logo_sm.png"
+  ]
+}
