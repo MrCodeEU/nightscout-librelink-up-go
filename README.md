@@ -1,6 +1,7 @@
 # Nightscout LibreLink Up Go
 
-[![Docker Image Size](https://img.shields.io/docker/image-size/ghcr.io/mrcodeeu/nightscout-librelink-up-go?label=image%20size)](https://github.com/mrcodeeu/nightscout-librelink-up-go/pkgs/container/nightscout-librelink-up-go)
+[![Build Status](https://img.shields.io/github/actions/workflow/status/mrcodeeu/nightscout-librelink-up-go/build-and-publish.yml?branch=main)](https://github.com/mrcodeeu/nightscout-librelink-up-go/actions/workflows/build-and-publish.yml)
+[![Docker Pulls](https://img.shields.io/badge/docker-ghcr.io-blue)](https://github.com/mrcodeeu/nightscout-librelink-up-go/pkgs/container/nightscout-librelink-up-go)
 [![License](https://img.shields.io/github/license/mrcodeeu/nightscout-librelink-up-go)](LICENSE)
 [![Go Version](https://img.shields.io/github/go-mod/go-version/mrcodeeu/nightscout-librelink-up-go)](go.mod)
 
