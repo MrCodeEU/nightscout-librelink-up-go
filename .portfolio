@@ -3,6 +3,7 @@
   "featured": true,
   "tags": ["golang", "nightscout", "diabetes", "healthcare", "docker", "monitoring"],
   "images": [
-    "https://raw.githubusercontent.com/nightscout/cgm-remote-monitor/master/static/images/nightscout_logo_sm.png"
+    "https://picsum.photos/seed/nightscout/800/400",
+    "https://picsum.photos/seed/librelink/600/400"
   ]
 }
